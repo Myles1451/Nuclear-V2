@@ -10,9 +10,7 @@ from utils import rpc
 selfbot_name = "Nuclear" # Tip: Don't use the "Selfbot" word into your selfbot name, most of servers blacklist this word with AutoMod
 
 # en: Account Token.
-# fr: Token du compte.
-token = "MTIzMTk4MTcxOTE2MzI0MDQ1OA.GAlqVC.5KyM410KlfnMetkfo_QPcW1Vb-csSHViltM0GA"
-
+# fr: Token du
 # en: Commands prefix.
 # fr: Prefix des commandes.
 prefix = "&"
