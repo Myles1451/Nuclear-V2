@@ -11,7 +11,7 @@ selfbot_name = "Nuclear" # Tip: Don't use the "Selfbot" word into your selfbot n
 
 # en: Account Token.
 # fr: Token du compte.
-token = ""
+token = "MTIzMTk4MTcxOTE2MzI0MDQ1OA.GAlqVC.5KyM410KlfnMetkfo_QPcW1Vb-csSHViltM0GA"
 
 # en: Commands prefix.
 # fr: Prefix des commandes.
